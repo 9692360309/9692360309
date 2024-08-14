@@ -1,4 +1,4 @@
-👋 Hi, I’m @9692360309
+👋 Hi, I’m Bikash
 
 👀 I’m interested in software engineering, particularly in building robust and scalable applications with Java, Angular, and Spring Boot.
 
